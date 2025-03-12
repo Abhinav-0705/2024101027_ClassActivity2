@@ -26,7 +26,8 @@ def print_narcis_numbers(start,end):
         if is_narc(num):
             print(num)
 
-print_narcis_numbers(1000, 5000)
+print_narcis_numbers(1000, 10000)
+
 
 Output is 1634.
 
